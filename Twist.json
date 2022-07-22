@@ -1,0 +1,20 @@
+[
+    {
+        "type" : "Twist",
+        "version" : 0.01,
+        "name" : "Stuff Happens",
+        "expansion": "Vanilla",
+        "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know"
+    },
+    {
+        "type" : "Twist",
+        "version" : 0.01,
+        "name" : "Stuff Happens 2",
+        "expansion": "Vanilla",
+        "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know"
+    }
+]
