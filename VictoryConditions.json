@@ -1,25 +1,22 @@
 [
-    {"version": 0.01,
-        "data":[
-        {
-            "type" : "Victory Condition",
-            "name" : "The Quarter Board One Baby",
-            "expansion": "Vanilla",
-            "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "isVictoryPoints": false,
-            "turnLimit": 4
-        },
-        {
-            "type" : "Victory Condition",
-            "name" : "The Victory Points",
-            "expansion": "Vanilla",
-            "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
-            "isVictoryPoints": true,
-            "turnLimit": 4
-        }
-]}
+    {
+        "type" : "Victory Condition",
+        "name" : "The Quarter Board One Baby",
+        "expansion": "Vanilla",
+        "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "isVictoryPoints": false,
+        "turnLimit": 4
+    },
+    {
+        "type" : "Victory Condition",
+        "name" : "The Victory Points",
+        "expansion": "Vanilla",
+        "moodText": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "fullDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "shortDescription": "So you'll do this, then do that, then make a point then it'll be amazing for life you know",
+        "isVictoryPoints": true,
+        "turnLimit": 4
+    }
 ]
